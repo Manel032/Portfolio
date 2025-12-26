@@ -16,6 +16,7 @@ section {
     margin: 20px;
     background: white;
     border-radius: 8px;
+    animation: fadeIn 1s ease-in;
 }
 
 .project a {
@@ -25,4 +26,41 @@ section {
 .img{
      width: 214px; 
      height: 214px;
+}
+
+@media (max-width: 768px) {
+    header {
+        padding: 20px;
+    }
+
+    section {
+        margin: 10px;
+    }
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+#skills ul {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    list-style: none;
+    padding: 0;
+}
+
+.dark {
+    background: #121212;
+    color: white;
+}
+
+.dark section {
+    background: #1e1e1e;
 }

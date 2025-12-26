@@ -6,9 +6,9 @@ Ce site web présente mon profil, mes compétences et mes projets en développem
 ---
 
 ## 🔗 Aperçu
-- 🌍 Portfolio en ligne : https://ton-lien.github.io
-- 💻 GitHub : https://github.com/ton-username
-- 🔗 LinkedIn : https://linkedin.com/in/ton-profil
+- 🌍 Portfolio en ligne : https://github.com/Manel032/Portfolio
+- 💻 GitHub : https://github.com/Manel032
+- 🔗 LinkedIn : https://www.linkedin.com/in/manelbouchhioua/
 
 ---
 

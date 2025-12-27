@@ -64,3 +64,20 @@ section {
 .dark section {
     background: #1e1e1e;
 }
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
+
+.btn {
+    display: inline-block;
+    padding: 10px 20px;
+    background: #007bff;
+    color: white;
+    border-radius: 6px;
+    text-decoration: none;
+}
